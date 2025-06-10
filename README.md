@@ -25,7 +25,7 @@ The main goal was to apply Python programming skills to develop a complete, func
 ## 📁 Files
 
 - `guess_the_number.ipynb`: main game script
-- `ValidarEntrada.py: Contains functions to validate user input in menus and game settings..
+- `ValidarEntrada.py`: Contains functions to validate user input in menus and game settings..
 - `README.md`: project documentation
 
 ---
